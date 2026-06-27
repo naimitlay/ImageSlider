@@ -48,6 +48,7 @@ XML
         
 ===================================================
 Libery        
-// Image Slider dependency
+// Image Slider dependency ........
+   
     implementation 'com.github.denzcoskun:ImageSlideshow:0.1.2'
 ============================================================================
